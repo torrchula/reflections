@@ -20,3 +20,11 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 - Keep my project code
+
+
+My Note:
+Notepad++ Setup
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+For .bash_profile
+alias notepad="/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe"
